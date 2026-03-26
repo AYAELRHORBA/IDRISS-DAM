@@ -112,19 +112,4 @@ To stop the app press `Ctrl+C` in the terminal.
 
 ---
 
-## citation
 
-```bibtex
-@inproceedings{elmansouri2026idriss,
-  title     = {AI Systems for Optimal Control and Management of
-               Climate Impact on Water Resources},
-  author    = {EL MANSOURI, Aya and EL RHORBA, Aya},
-  booktitle = {International Conference on AI Applied to
-               Water Resource Management},
-  year      = {2026}
-}
-```
-
----
-
-*Built with Streamlit · Plotly · TensorFlow · XGBoost · LightGBM · scikit-learn*
