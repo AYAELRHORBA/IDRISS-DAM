@@ -2,7 +2,7 @@
 
 > **AI Systems for Optimal Control and Management of Climate Impact on Water Resources**  
 > Case Study: Idriss I Dam, Sebou Basin, Morocco  
-> Authors: EL MANSOURI Aya · EL RHORBA Aya · Conference Demo 2026
+> Authors: EL MANSOURI Aya · EL RHORBA Aya · 
 
 ---
 
